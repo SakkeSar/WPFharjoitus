@@ -1,1 +1,2 @@
 c:\users\sakke.sarkkinen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\sakke.sarkkinen\Documents\GitHub\WPFharjoitus\WpfApplication1\bin\Debug\WpfApplication1.exe.config
